@@ -13,7 +13,7 @@ Este repositório contém o relatório, os códigos e os resultados de experimen
 ---
 
 ## 🔍 **Estrutura do Repositório**  
-- `Relatório/`: Documento detalhado com todas as atividades e resultados.  
+- `Relatório NS-3.pdf/`: Documento detalhado com todas as atividades e resultados.  
 - `Códigos/`: Scripts utilizados nas simulações no NS-3.  
 - `Resultados/`: Gráficos e arquivos gerados durante as simulações.  
 - `README.md`: Este arquivo, com informações sobre o projeto.  
