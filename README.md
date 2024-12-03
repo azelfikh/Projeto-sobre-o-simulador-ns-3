@@ -33,3 +33,8 @@ Este repositório contém o relatório, os códigos e os resultados de experimen
    ```bash
    git clone <URL-do-repositório>
    cd <nome-do-repositório>
+
+### **Autores:**
+- João Duarte
+- Lorhan Lima
+- Lucas Moreira
